@@ -17,7 +17,8 @@ Browser (as runtime environment)
 To run this app, click live github website link given below. OR
 open index.html in your browser.
 
-Repo Link:
+# Repo Link:
+https://github.com/Faisal-kalwar/Recipe-App
 
-
-Live Link:
+# Live Link:
+https://faisal-kalwar.github.io/Recipe-App/
