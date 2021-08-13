@@ -6,7 +6,7 @@ This week's task is to make a basic RecipeTreasure App.
 This app has functionality of getting recipe titles based on a hardcoded search term.
 This is a RecipeTreasure App that displays recipe titles fetched by an API.
 
-#Technologies used:
+# Technologies used:
 HTML, CSS, JavaScript (for coding and implementation on UI)
 
 # Software needed to run for this app:
